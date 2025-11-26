@@ -1,0 +1,7 @@
+{
+  "name": "FitCoach AI",
+  "description": "你的AI私人健身教练，根据你的表现、饮食和恢复情况每天动态调整计划。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
